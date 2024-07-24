@@ -1,0 +1,28 @@
+---
+title: "Hi!"
+author:
+- name: Tim Triche
+  affiliation: Van Andel Institute, Grand Rapids, MI
+date: "`r Sys.Date()`"
+output:
+  BiocStyle::html_document:
+    toc: true
+    toc_depth: 2
+vignette: >
+  %\VignetteIndexEntry{Make A Package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Hello!
+
+```{r hi}
+library(Bioc2024PackageByTim)
+hi()
+```
+
+# And by the way
+
+```{r si}
+sessionInfo()
+```
