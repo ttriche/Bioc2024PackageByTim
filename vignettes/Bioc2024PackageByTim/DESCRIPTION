@@ -2,7 +2,7 @@ Package: Bioc2024PackageByTim
 Title: Demonstrates where not to create a package.
 Version: 0.99.0
 Authors@R: 
-    person("Tim", "Triche", "tim.triche@gmail.com", role = c("aut", "cre", "ctb", "fun", "cph"))
+    person("Tim", "Triche", "tim.triche@gmail.com", role = c("aut", "cre", "ctb", "fnd", "cph"))
 Description: This small collection of functions does very little and is best avoided.
 Depends: stats
 Imports: MASS
