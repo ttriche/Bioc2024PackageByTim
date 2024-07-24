@@ -1,0 +1,12 @@
+Package: Bioc2024PackageByTim
+Title: Demonstrates where not to create a package.
+Version: 0.99.0
+Authors@R: 
+    person("Tim", "Triche", "tim.triche@gmail.com", role = c("aut", "cre", "ctb", "fun", "cph"))
+Description: This small collection of functions does very little and is best avoided.
+Depends: stats
+Imports: MASS
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
