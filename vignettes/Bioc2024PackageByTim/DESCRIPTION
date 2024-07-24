@@ -7,8 +7,8 @@ Authors@R: c(
 Description: This small collection of functions does very little and is best avoided.
 Depends: stats
 Imports: MASS
-License: MIT
+License: Artistic-2.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-BiocViews: StatisticalMethod, PatternLogic
+biocViews: StatisticalMethod, PatternLogic
